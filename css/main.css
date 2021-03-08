@@ -42,3 +42,30 @@ nav{
     grid-gap: 20px;
     width: 80%;
 }
+#logo img{
+    height: 100px;
+}
+#logo{
+    display: flex;
+}
+#home-info{
+    background-image: url(/IMAGES/PHYSIC.jpg);
+    height: 150vh;
+    color: aliceblue;
+    justify-content: center;
+
+}
+footer img{
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    border: dotted red;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
